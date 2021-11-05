@@ -1,0 +1,8 @@
+{
+    "Portuguese":{
+        "errorPlay":"Musica pedida com falhas.",
+        "playSkipMusic":"Musica será tocado agora!",
+        "playMusic":"Musica será tocado!",
+        "skipMusic": "Musica pulada."
+    }
+}
